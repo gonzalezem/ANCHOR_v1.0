@@ -86,7 +86,7 @@ and files:
 </p>
 
 <h2>Test run</h2>
- Go inside <b>test_run</b> folder and run the following command (it takes around 2 minutes to run):
+ Go inside <b>test_run</b> folder and run the following command (it takes about 2 minutes to run):
  
  ```
  bash run_test.sh
